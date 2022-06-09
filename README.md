@@ -2,22 +2,22 @@
 -	Added icons for Chapter 18: Descend Beyond
 -	Added icons for Chapter 19: All Kill 
 -	Redesign a perk:
-•	Buckle Up
-Adding a wavy 〰 line. Please pretend that’s a belt. Thx.
-•	Flip Flop
-I notice that he’s winking. So I change that to 😉 emoji instead of 😃.
-•	Mettle of Man
-Use 🦾 emoji instead of rotated 🤛
-•	Resilience
-Use a flipped 🤛 with all fill to make it look like it’s back side of hand
-•	Slippery Meat
-Update to match with perk update from 💣🤏 to 🥩⛏
-•	Small Game
-Update to match with perk update from 🏃‍♂️💣 to totem
-•	This is not happening
-Looking close, he’s not crying. He’s afraid of something. :/
-•	Urban evasion
-Running might be misunderstood as Sprint Burst. Change to 🧎‍♂️.
+
+•	Buckle Up : Adding a wavy 〰 line. Please pretend that’s a belt. Thx.
+
+•	Flip Flop : I notice that he’s winking. So I change that to 😉 emoji instead of 😃.
+
+•	Mettle of Man : Use 🦾 emoji instead of rotated 🤛
+
+•	Resilience : Use a flipped 🤛 with all fill to make it look like it’s back side of hand
+
+•	Slippery Meat : Update to match with perk update from 💣🤏 to 🥩⛏
+
+•	Small Game : Update to match with perk update from 🏃‍♂️💣 to totem
+
+•	This is not happening : Looking close, he’s not crying. He’s afraid of something. :/
+
+•	Urban evasion : Running might be misunderstood as Sprint Burst. Change to 🧎‍♂️
 
 ## The limitation of Emoji interpretation to Dead by Daylight
 Here is all the limitation the emoji has that result in how you seen it now:
