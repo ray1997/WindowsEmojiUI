@@ -1,8 +1,16 @@
 {
+  "LastUpdate": "2565-06-09 05:52:01",
   "Name": "WindowsEmojiUI",
-  "Description": "A perk pack made out of Windows Emoji",
+  "Description": "WindowsEmojiUI",
   "Author": "Toon",
-  "LastUpdate": "2022-06-09 04:20:00",
+  "URL": "https://github.com/ray1997/WindowsEmojiUI",
+  "Repository": {
+    "Name": "WindowsEmojiUI",
+    "ID": 501497116,
+    "Owner": "ray1997",
+    "DefaultBranch": "main",
+    "CloneUrl": "https://github.com/ray1997/WindowsEmojiUI.git"
+  },
   "ContentInfo": {
     "HasPerks": true,
     "HasPortraits": false,
