@@ -1,34 +1,12 @@
-﻿## What’s new in this pack update?
--	Added icons for Chapter 18: Descend Beyond
--	Added icons for Chapter 19: All Kill 
--	Redesign a perk:
+# This icon pack is no longer maintain
 
-•	Buckle Up : Adding a wavy 〰 line. Please pretend that’s a belt. Thx.
-
-•	Flip Flop : I notice that he’s winking. So I change that to 😉 emoji instead of 😃.
-
-•	Mettle of Man : Use 🦾 emoji instead of rotated 🤛
-
-•	Resilience : Use a flipped 🤛 with all fill to make it look like it’s back side of hand
-
-•	Slippery Meat : Update to match with perk update from 💣🤏 to 🥩⛏
-
-•	Small Game : Update to match with perk update from 🏃‍♂️💣 to totem
-
-•	This is not happening : Looking close, he’s not crying. He’s afraid of something. :/
-
-•	Urban evasion : Running might be misunderstood as Sprint Burst. Change to 🧎‍♂️
+Reason: I'm just done with DBD
 
 ## The limitation of Emoji interpretation to Dead by Daylight
 Here is all the limitation the emoji has that result in how you seen it now:
 
-1.	Emoji 13 limitation
-These are limitation this pack has due to the non-existing of that type of emoji, but will be resolved with the upcoming release of Emoji 13
-- Hook
-- Anatomical heart
-- Bear trap
+### No substitude
 
-2.	Non-existence of type of that emoji limitation
 - Obsession
 
 There’s nothing mean obsession in emoji, but from the look of it mostly encases the perk, So any emoji that circular and look fine when being a background should be 🏵
@@ -85,9 +63,9 @@ Also, another reason why is that I notice how little of a perk pack that interpr
 
 ## Feedback
 
-If this perk pack still not satisfied you or there’s a mistake, here’s a [link to my workstation folder](https://1drv.ms/f/s!AsPczr3-hqPBjIooTuj0f9xk9zciiw) (As read-only). Feel free to modify and send it to me or contact me for changes that you want to be done via Twitter or Reddit. 
+If this perk pack still not satisfied you or there’s a mistake, here’s a [link to my workstation folder](https://1drv.ms/f/s!AsPczr3-hqPBjIooTuj0f9xk9zciiw) (As read-only). Feel free to modify and send it to me or contact me for changes that you want to be done via Twitter/𝕏 or Reddit. 
 
-Twitter: [@ToonWK](https://www.twitter.com/ToonWK)
+Twitter (aka.𝕏): [@ToonWK](https://www.twitter.com/ToonWK)
 
 Reddit: [u/rayletter1997](https://www.reddit.com/u/rayletter1997)
 
